@@ -1,5 +1,7 @@
 # ML Starter Pack
 
+![](starter-kit-plan.png)
+
 ## Description
 If you always wanted to learn how AI works, this is the course for you. Our course will guide you through the basics of machine learning and show you ways it can be applied in real-world scenarios. No prior machine learning knowledge is required, but you’ll need a solid grasp of Python programming. 
 
