@@ -29,11 +29,19 @@ In this course, we’ll guide you through five clear and straightforward notebo
 ## Synopsis
 
 ### Introduction to Machine Learning
+
+[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_1.ipynb)
+
 - General principles of machine learning
 - Overview of different areas within machine learning
 - Introduction to text classification using a linear classifier
 
 ### Hands-on Linear Models
+
+[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_2.ipynb)
+
+[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_2_with_solutions.ipynb)
+
 - Using Hugging Face datasets
 - Bag-of-words model and text vectorization with scikit-learn
 - Math behind a multiclass linear classifier
@@ -41,6 +49,11 @@ In this course, we’ll guide you through five clear and straightforward notebo
 - Training a linear model with scikit-learn
 
 ### Transformers
+
+[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_3.ipynb)
+
+[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_3_with_solutions.ipynb)
+
 - Basics of neural networks
 - Texts tokenization and embeddings
 - Attention mechanism in neural networks
@@ -49,6 +62,11 @@ In this course, we’ll guide you through five clear and straightforward notebo
 - Training and fine-tuning models with Hugging Face transformers
 
 ### ChatGPT
+
+[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_4.ipynb)
+
+[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_4_with_solutions.ipynb)
+
 - Base GPT model is pre-training using self-supervised learning
 - ChatGPT fine-tuning and alignment training
 - In-context learning with ChatGPT
@@ -56,6 +74,11 @@ In this course, we’ll guide you through five clear and straightforward notebo
 - Building applications with large language models using LangChain
 
 ### Computer Vision
+
+[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_5.ipynb)
+
+[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_5_with_solutions.ipynb)
+
 - Basics of image classification
 - Vision transformer architecture
 - Principles of transfer learning
