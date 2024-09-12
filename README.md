@@ -30,7 +30,7 @@ In this course, we’ll guide you through five clear and straightforward notebo
 
 ### Introduction to Machine Learning
 
-[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_1.ipynb)
+[Notebook](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_1.ipynb)
 
 - General principles of machine learning
 - Overview of different areas within machine learning
@@ -38,9 +38,9 @@ In this course, we’ll guide you through five clear and straightforward notebo
 
 ### Hands-on Linear Models
 
-[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_2.ipynb)
+[Notebook](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_2.ipynb)
 
-[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_2_with_solutions.ipynb)
+[Notebook with solutions](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_2_with_solutions.ipynb)
 
 - Using Hugging Face datasets
 - Bag-of-words model and text vectorization with scikit-learn
@@ -50,9 +50,9 @@ In this course, we’ll guide you through five clear and straightforward notebo
 
 ### Transformers
 
-[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_3.ipynb)
+[Notebook](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_3.ipynb)
 
-[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_3_with_solutions.ipynb)
+[Notebook with solutions](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_3_with_solutions.ipynb)
 
 - Basics of neural networks
 - Texts tokenization and embeddings
@@ -63,9 +63,9 @@ In this course, we’ll guide you through five clear and straightforward notebo
 
 ### ChatGPT
 
-[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_4.ipynb)
+[Notebook](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_4.ipynb)
 
-[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_4_with_solutions.ipynb)
+[Notebook with solutions](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_4_with_solutions.ipynb)
 
 - Base GPT model is pre-training using self-supervised learning
 - ChatGPT fine-tuning and alignment training
@@ -75,9 +75,9 @@ In this course, we’ll guide you through five clear and straightforward notebo
 
 ### Computer Vision
 
-[Notebook](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_5.ipynb)
+[Notebook](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_5.ipynb)
 
-[Notebook with solutions](https://colab.research.google.com/github/Nebius-Academy/ML-Starter-Pack/blob/main/notebooks/lesson_5_with_solutions.ipynb)
+[Notebook with solutions](https://colab.research.google.com/github/AIDT-School/ML-Starter-Pack/blob/main/notebooks/lesson_5_with_solutions.ipynb)
 
 - Basics of image classification
 - Vision transformer architecture
