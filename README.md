@@ -86,3 +86,4 @@ In this course, we’ll guide you through five clear and straightforward notebo
 - CLIP model architecture
 - Zero-shot image classification with CLIP
 
+© Nebius BV, 2024
